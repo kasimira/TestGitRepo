@@ -1,2 +1,4 @@
 # TestGitRepo
-TestRepo
+TestRepo. Very cool project!
+
+
